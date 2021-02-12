@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "abaf6a7e9997edc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "954be69e90233ea2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/post/jamaica-blue.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "294b39332c5e419f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f0579fa7bab8e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "576efdc62648df8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2be484c8cd424047",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c75ae862d82e8eaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d602dbb35a326960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b8fa2eb25d1cf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/jamaica-blue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "content/post/jamaica-blue.md",
+    "content/post/brewing-chemex.md",
+    "static/img/android-chrome-192x192.png",
+    "static/img/about-direct-sourcing.jpg",
+    "content/products/_index.md",
+    "content/contact/_index.md",
+    "content/tech.md"
+  ]
+}

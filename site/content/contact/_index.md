@@ -2,15 +2,12 @@
 title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+  - heading: Locatie
+    text: "Duinvlietstraat 98, 1951 XE Velsen-Noord"
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Maandag – Vrijdag: 8.15 – 17.00 Daarbuiten telefonisch"
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Ik kom graag met je in contact om ideëen uit te wisselen en natuurlijk al je vragen te beantwoorden. Mijn streven is kennis verzamelen maar vooral deze te delen.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
