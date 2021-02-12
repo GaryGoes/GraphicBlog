@@ -13,6 +13,7 @@ dsffdsdf
 
 [](android-chrome-192x192.png)
 
+![](about-reinvest-profits.jpg)
 En deze afbeelding heb ik nu geplaatst[](about-reinvest-profits.jpg)
 
 sdf
