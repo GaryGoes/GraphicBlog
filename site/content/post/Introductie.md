@@ -10,3 +10,5 @@ image: /img/blog-chemex.jpg
 ---
 
 ![[Pasted image 20210212144745.png]]
+
+En deze afbeelding heb ik nu geplaatst
