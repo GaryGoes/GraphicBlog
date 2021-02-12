@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/Introductie.md",
+            "file": "content/post/Geschiedenis van grootformaat print.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Introductie.md",
+                "file": "content/post/Geschiedenis van grootformaat print.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "content/post/Geschiedenis van grootformaat print.md",
+    "static/img/Pasted image 20210212153613.png",
+    "static/img/Pasted image 20210212152943.png",
+    "content/post/Untitled.md",
     "content/post/Introductie.md",
     "content/post/jamaica-blue.md",
     "content/products/_index.md",
     "static/img/about-reinvest-profits.jpg",
     "static/img/blog-chemex.jpg",
-    "content/post/brewing-chemex.md",
-    "content/post/making-sense.md",
-    "static/img/about-shade-grown.jpg",
-    "content/post/Untitled.md",
-    "templates/Post.md"
+    "content/post/brewing-chemex.md"
   ]
 }
