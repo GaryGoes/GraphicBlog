@@ -22,7 +22,7 @@ Daarnaast is blauwdruk in de loop van de tijd ook de term geworden waarmee een n
 
 Neerlands trots
 ---
-
+Belangrijke ontwikkelingen op print gebied zijn inge
 
 Geschiedenis
 ----

@@ -6,12 +6,22 @@
       {
         "id": "954be69e90233ea2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "content/post/Geschiedenis van grootformaat print.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0a70bb950de6ace9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "content/Blauwdrukmachine 20210212153613.png"
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Geschiedenis van grootformaat print.md",
+                "file": "content/Blauwdrukmachine 20210212153613.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "static/img/Blauwdrukmachine 20210212153613.png",
     "content/post/Geschiedenis van grootformaat print.md",
+    "content/post/brewing-chemex.md",
     "static/img/Pasted image 20210212153613.png",
     "static/img/Pasted image 20210212152943.png",
     "content/post/Untitled.md",
     "content/post/Introductie.md",
     "content/post/jamaica-blue.md",
     "content/products/_index.md",
-    "static/img/about-reinvest-profits.jpg",
-    "static/img/blog-chemex.jpg",
-    "content/post/brewing-chemex.md"
+    "static/img/about-reinvest-profits.jpg"
   ]
 }
