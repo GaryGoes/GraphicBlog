@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/brewing-chemex.md",
+            "file": "content/post/brewing-chemex 1.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/brewing-chemex.md",
+                "file": "content/post/brewing-chemex 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "content/post/brewing-chemex.md",
     "content/post/brewing-chemex 1.md",
-    "content/tech.md",
     "content/post/jamaica-blue.md",
+    "content/post/brewing-chemex.md",
+    "content/tech.md",
     "content/post/making-sense.md",
     "static/img/android-chrome-192x192.png",
     "static/img/about-direct-sourcing.jpg",
