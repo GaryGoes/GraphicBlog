@@ -5,9 +5,7 @@ tags:
 - print
 - blauwdruk
 - geschiedenis
-description: >-
-Van blauwdruk tot inkjetprint, wat geschiedenis van het grootformaat printen
-  
+description: Van blauwdruk tot inkjetprint, wat geschiedenis van het grootformaat printen
 image: Blauwdruk%2020210212152943.png
 ---
 Plezier is van korte duur
