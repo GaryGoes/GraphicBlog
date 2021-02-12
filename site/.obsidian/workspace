@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "content/post/Geschiedenis van grootformaat print.md",
-            "mode": "source"
+            "file": "content/TDS860 20210212162025.png"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Geschiedenis van grootformaat print.md",
+                "file": "content/TDS860 20210212162025.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +85,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "content/TDS860 20210212162025.png",
     "content/post/Geschiedenis van grootformaat print.md",
+    "content/post/making-sense.md",
+    "content/post/jamaica-blue.md",
+    "content/Apple Glass 20210212163535.png",
+    "content/Pasted image 20210212163535.png",
     "content/Pasted image 20210212162025.png",
     "content/Pasted image 20210212160316.png",
-    "content/post/jamaica-blue.md",
-    "content/post/making-sense.md",
     "content/post/brewing-chemex.md",
-    "content/post/Introductie.md",
-    "static/img/Blauwdrukmachine 20210212153613.png",
-    "static/img/Pasted image 20210212153613.png",
-    "static/img/Pasted image 20210212152943.png"
+    "content/post/Introductie.md"
   ]
 }
