@@ -9,6 +9,8 @@ description: >-
 image: /img/blog-chemex.jpg
 ---
 
-![[Pasted image 20210212144745.png]]
+[titel](Pasted image 20210212144745.png)
 
-En deze afbeelding heb ik nu geplaatst
+![](android-chrome-192x192.png)
+
+En deze afbeelding heb ik nu geplaatst![](about-reinvest-profits.jpg)
