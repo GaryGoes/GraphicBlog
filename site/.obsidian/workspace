@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "954be69e90233ea2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/post/jamaica-blue.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "00a6dfc89e183938",
         "type": "leaf",
         "active": true,
@@ -98,14 +87,14 @@
   },
   "lastOpenFiles": [
     "content/post/Geschiedenis van grootformaat print.md",
+    "content/Pasted image 20210212162025.png",
+    "content/Pasted image 20210212160316.png",
     "content/post/jamaica-blue.md",
     "content/post/making-sense.md",
     "content/post/brewing-chemex.md",
     "content/post/Introductie.md",
     "static/img/Blauwdrukmachine 20210212153613.png",
     "static/img/Pasted image 20210212153613.png",
-    "static/img/Pasted image 20210212152943.png",
-    "content/post/Untitled.md",
-    "content/products/_index.md"
+    "static/img/Pasted image 20210212152943.png"
   ]
 }
