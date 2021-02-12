@@ -5,12 +5,12 @@
     <div class="flex justify-between grey-3">
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
+  {{ partial "tags.html" .}}
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
-  {{ partial "tags.html" .}}
     </div>
   </div>
   {{ end }}
