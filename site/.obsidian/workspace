@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/jamaica-blue.md",
+            "file": "content/post/brewing-chemex.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/jamaica-blue.md",
+                "file": "content/post/brewing-chemex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "content/post/jamaica-blue.md",
     "content/post/brewing-chemex.md",
+    "content/post/jamaica-blue.md",
     "content/post/making-sense.md",
     "content/post/brewing-chemex 1.md",
     "content/tech.md",
