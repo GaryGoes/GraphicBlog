@@ -16,8 +16,10 @@ Een blauwdruk is een met behulp van cyanotypie gemaakte directe fotografische ko
 
 Tegenwoordig is dit proces best wel "hot" bij kunstenaars
 ![Met blauwdruk kun je mooie kunst maken](Cyantotype%2020210212160316.png)
+*Voorbeelden van blauwdruk kunst*
 
 ![Een historische blauwdrukmachine](Blauwdrukmachine%2020210212153613.png)
+*Blauwdrukmachine uit de jaren 50*
 
 Daarnaast is blauwdruk in de loop van de tijd ook de term geworden waarmee een nog niet uitgevoerd ontwerp van iets wordt aangeduid. Blauwdruk betekent in figuurlijke zin plan van uitvoering.
 
@@ -38,6 +40,7 @@ Op naar de virtuele wereld
 ---
 Hebben we over 10 jaar allemaal een VR bril op?
 ![Apple Glass](Apple%20Glass%2020210212163535.png)
+*Allemaal aan de bril*
 
 Hier zal ik nog wel eens een verhaaltje over schrijven, maar dat we dan een sterke maag nodig gaan hebben is wel zeker.
 
