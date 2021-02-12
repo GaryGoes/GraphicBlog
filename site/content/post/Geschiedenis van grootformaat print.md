@@ -1,6 +1,6 @@
 ---
 title: Geschiedenis van grootformaat print
-date: 20201001
+date: 2020-10-01
 tags: 
 - print
 - blauwdruk
