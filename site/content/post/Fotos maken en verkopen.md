@@ -8,8 +8,6 @@ tags:
 description: Je eigen fotowerk verkopen
 image: Aldo%20Amsterdam%2020210224163816.png
 ---
-Eigen fotowerk verkopen
-===
 In mijn klantenkring heb ik een aardig aantal professionele en niet-professionele fotografen. Weinig daarvan verkopen met met succes hun werken aan wildvreemden. Er moet vaak een expositie of evenement zijn om de interesse aan te wakkeren.
 Eén van die weinigen is Aldo. Waar zijn succes vandaan komt is niet makkelijk te zeggen maar in het geval van Aldo wel te begrijpen.
 
